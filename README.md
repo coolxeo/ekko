@@ -1,5 +1,5 @@
 # ekko
 Ecommerce Open Source Platform
 
-## Featuring
+### Featuring
 https://github.com/jaws-stack/JAWS
